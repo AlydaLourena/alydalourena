@@ -2,12 +2,14 @@
 ## `Hello, World!´ I´m Alyda Lourena.
 
 - 📚 Estudante de desenvolvimento web fullstack na trybe
-- 📧 Contate-me no email: lourenaalyda@gmail.com
 - ♀️ Pronouns: ela/dela
-
-
-<a href="https://github.com/AlydaLourena">
+<br> 
+ <a href="https://github.com/AlydaLourena">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alydalourena&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+<div align="side">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alydalourena&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
 
 ## Most Used Linguagens:
 </div>

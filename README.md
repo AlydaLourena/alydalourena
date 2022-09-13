@@ -1,7 +1,7 @@
 
 ## `Hello, World!´ I´m Alyda Lourena.
 
-- 📚 Estudante de desenvolvimento web fullstack na trybe
+- 📚 Estudante de desenvolvimento web na trybe
 - ♀️ Pronouns: ela/dela
 <br> 
 <div aligin="center">

@@ -1,7 +1,10 @@
 
-## `Hello, World!´ I´m Alyda Lourena.
+## `Hello, World!´ I'm Alyda Lourena.
 
-- 📚 Estudante de desenvolvimento web na trybe
+- 📚 Estudante de desenvolvimento web na trybe,
+
+- 🪗 Nordestina, Alagoana,
+
 - ♀️ Pronouns: ela/dela
 <br> 
 <div aligin="center">

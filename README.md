@@ -1,7 +1,7 @@
 
 ## `Hello, World!´ I'm Alyda Lourena.
 
-- fullStack developer,
+- Full-stack web-developer,
 
 - 🪗 Nordestina, Alagoana,
 

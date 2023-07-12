@@ -1,7 +1,7 @@
 
 ## `Hello, World!´ I'm Alyda Lourena.
 
-- 📚 Estudante de desenvolvimento web na trybe,
+- fullStack developer,
 
 - 🪗 Nordestina, Alagoana,
 

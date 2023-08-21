@@ -4,6 +4,7 @@
 - 🎵 Apaixonada por Música.
 - 🪐 Fascinada por Astronomia.
 </br>
+
 ## ⚡ Habilidades
 
 <div style="display: inline_block"><br>

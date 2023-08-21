@@ -3,19 +3,7 @@
 - 🪗 Nordestina, Alagoana.
 - 🎵 Apaixonada por Música.
 - 🪐 Fascinada por Astronomia.
-
 </br>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/AlydaLourena">
-  <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=alydalourena&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alydalourena&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-</br>
-
 ## ⚡ Habilidades
 
 <div style="display: inline_block"><br>

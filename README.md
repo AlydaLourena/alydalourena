@@ -1,5 +1,5 @@
 ## 👋 Olá, eu sou a Alyda Lourena !
-- 💻 Full-stack web developer, Intern at Yantec.
+- 💻 Desenvolvedora Web Full-Stack, Estagiária na Yantec.
 - 🪗 Nordestina, Alagoana.
 - 🎵 Apaixonada por Música.
 - 🪐 Fascinada por Astronomia.
